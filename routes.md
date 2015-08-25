@@ -10,6 +10,18 @@
 6. blog
 7. rating
 
+## ActionDispatch::Routing::Redirect
+
+## constraints
+
+## scope
+
+## nested resource
+
+## shallow
+
+## concern
+
 ### resource
 #### member
 #### collection
